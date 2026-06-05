@@ -1,0 +1,10 @@
+1 | ডোমেইন নাম হলো— [য. বো. ২০১৭] | ওয়েবসাইটের একটি স্বতন্ত্র নাম | সার্ভারের নাম | ওয়েব ফাইলের নাম | ফোল্ডারের নাম | 
+2 | ISP এর পূর্ণ নাম কী? [দি. বো. ২০১৭] | Internet Super Power | Internet Server Provider | Internet Server Programme | Internet Service Provider | 
+3 | http://www.moedu.gov/home/tag এখানে টপ ডোমেইন কোনটি? [দি. বো. ২০১৯] | www.moedu.gov | www. | www.moedu | gov | 
+4 | ওয়েবপেজের এড্রেসকে কী বলে? [দি. বো. ২০১৭] | URL | HTTP | HTML | WWW | 
+5 | কোনটি ওয়েব ব্রাউজার? | গুগল | ইয়াহু | মজিলা | বিং | 
+6 | কোন ওয়েবসাইটকে যেখানে হোস্ট করা হয় তার নাম কী? | হোমপেজ | ওয়েব সার্ভার | হোস্টর | মাদার কম্পিউটার | 
+7 | Google.com কী? [য. বো. ২০১৬] | Browser | Search engine | Protocol | E-mail address | 
+8 | প্রতিটি সাইটের স্বতন্ত্র নামকে কী বলে? | ফটোশপ | ডোমেইন | HTML | সাইট ডিজাইন | 
+9 | কোনটি সঠিক URL? | www.abc-com/xyz | www.abc.com\xyz | www.abc-com\xyz | www.abc.com/xyz | 
+10 | ওয়েবপেজে ocean.jpg নামক ইমেজটি যুক্ত করার জন্য নির্দেশ হলো  এখানে ইমেজটির সাইজ ৪০০ বাই ৩০০ পিক্সেল করার জন্য কী নির্দেশ দিতে হবে? | w="400" h="300" | width="400" height="300" | pixw="400" pixh="300" | কোনটি সত্য নয় | 
